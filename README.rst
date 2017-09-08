@@ -1,5 +1,6 @@
-Hexabot is a minimal IRC BOT
-
+Hexabot is a minimal IRC BOT by Grégoire Cutzach Aka Hexaltation
+Based on Sean Golin's Tutorial
+https://linuxacademy.com/blog/geek/creating-an-irc-bot-with-python3/
 
 
 Python 3.6 or higher is required.
