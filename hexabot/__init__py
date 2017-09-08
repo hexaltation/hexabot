@@ -1,0 +1,3 @@
+from hexabot.my_irc_bot import *
+
+_path_is_broken = False

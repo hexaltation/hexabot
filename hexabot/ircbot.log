@@ -1,0 +1,1299 @@
+:wolfe.freenode.net NOTICE * :*** Looking up your hostname...
+:wolfe.freenode.net NOTICE * :*** Checking Ident
+:wolfe.freenode.net NOTICE * :*** Couldn't look up your hostname
+:wolfe.freenode.net NOTICE * :*** No Ident response
+:wolfe.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:wolfe.freenode.net 002 hexabot :Your host is wolfe.freenode.net[193.10.255.100/6667], running version ircd-seven-1.1.4
+:wolfe.freenode.net 003 hexabot :This server was created Wed Jan 18 2017 at 02:26:17 CET
+:wolfe.freenode.net 004 hexabot wolfe.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:wolfe.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:wolfe.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK SAFELIST ELIST=CTU :are supported by this server
+:wolfe.freenode.net 005 hexabot WHOX CPRIVMSG CNOTICE ETRACE :are supported by this server
+:wolfe.freenode.net 251 hexabot :There are 119 users and 84436 invisible on 30 servers
+:wolfe.freenode.net 252 hexabot 30 :IRC Operators online
+:wolfe.freenode.net 253 hexabot 28 :unknown connection(s)
+:wolfe.freenode.net 254 hexabot 53216 :channels formed
+:wolfe.freenode.net 255 hexabot :I have 5775 clients and 2 servers
+:wolfe.freenode.net 265 hexabot 5775 7170 :Current local users 5775, max 7170
+:wolfe.freenode.net 266 hexabot 84555 97718 :Current global users 84555, max 97718
+:wolfe.freenode.net 250 hexabot :Highest connection count: 7172 (7170 clients) (1069913 connections received)
+:wolfe.freenode.net 375 hexabot :- wolfe.freenode.net Message of the Day - 
+:wolfe.freenode.net 372 hexabot :- Welcome to wolfe.freenode.net in Stockholm, SE.
+:wolfe.freenode.net 372 hexabot :- Thanks to http://nordu.net/ for sponsoring
+:wolfe.freenode.net 372 hexabot :- this server!
+:wolfe.freenode.net 372 hexabot :-  
+:wolfe.freenode.net 372 hexabot :- WOLFE, GENE [1931-].  Prolific writer of short stories and
+:wolfe.freenode.net 372 hexabot :- novels. His best-known work is the multi-volume novel The
+:wolfe.freenode.net 372 hexabot :- Book of the New Sun. He has won multiple awards including
+:wolfe.freenode.net 372 hexabot :- the Nebula Award, the World Fantasy Award, The Campell
+:wolfe.freenode.net 372 hexabot :- Memorial Award and the Locus Award. He was awarded the World
+:wolfe.freenode.net 372 hexabot :- Fantasy Award for lifetime achievement in 1996.
+:wolfe.freenode.net 372 hexabot :-  
+:wolfe.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:wolfe.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:wolfe.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:wolfe.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:wolfe.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:wolfe.freenode.net 372 hexabot :-                                                                              
+:wolfe.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:wolfe.freenode.net 372 hexabot :-  
+:wolfe.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:wolfe.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:wolfe.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:wolfe.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:wolfe.freenode.net 372 hexabot :-  
+:wolfe.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:wolfe.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:wolfe.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:wolfe.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:wolfe.freenode.net 372 hexabot :- innovation.
+:wolfe.freenode.net 372 hexabot :-  
+:wolfe.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:wolfe.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:wolfe.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:wolfe.freenode.net 372 hexabot :- website.
+:wolfe.freenode.net 372 hexabot :-  
+:wolfe.freenode.net 372 hexabot :-  
+:wolfe.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:wolfe.freenode.net 372 hexabot :-  
+:wolfe.freenode.net 372 hexabot :- We hope to see you there!
+:wolfe.freenode.net 372 hexabot :-  
+:wolfe.freenode.net 372 hexabot :-  
+:wolfe.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:wolfe.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:wolfe.freenode.net 372 hexabot :- https://freenode.net
+:wolfe.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+:wolfe.freenode.net 353 hexabot @ #hexatest :hexabot @hexaltation
+:wolfe.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :!commands
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :!answer
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :PING ?
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+PING :wolfe.freenode.net
+:barjavel.freenode.net NOTICE * :*** Looking up your hostname...
+:barjavel.freenode.net NOTICE * :*** Checking Ident
+:barjavel.freenode.net NOTICE * :*** Couldn't look up your hostname
+:barjavel.freenode.net NOTICE * :*** No Ident response
+:barjavel.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:barjavel.freenode.net 002 hexabot :Your host is barjavel.freenode.net[195.154.200.232/6667], running version ircd-seven-1.1.4
+:barjavel.freenode.net 003 hexabot :This server was created Sat Jan 7 2017 at 03:00:47 CET
+:barjavel.freenode.net 004 hexabot barjavel.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:barjavel.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:barjavel.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU WHOX :are supported by this server
+:barjavel.freenode.net 005 hexabot ETRACE CPRIVMSG CNOTICE KNOCK :are supported by this server
+:barjavel.freenode.net 251 hexabot :There are 118 users and 86266 invisible on 30 servers
+:barjavel.freenode.net 252 hexabot 30 :IRC Operators online
+:barjavel.freenode.net 253 hexabot 76 :unknown connection(s)
+:barjavel.freenode.net 254 hexabot 53344 :channels formed
+:barjavel.freenode.net 255 hexabot :I have 5862 clients and 1 servers
+:barjavel.freenode.net 265 hexabot 5862 7620 :Current local users 5862, max 7620
+:barjavel.freenode.net 266 hexabot 86384 97718 :Current global users 86384, max 97718
+:barjavel.freenode.net 250 hexabot :Highest connection count: 7621 (7620 clients) (2327631 connections received)
+:barjavel.freenode.net 375 hexabot :- barjavel.freenode.net Message of the Day - 
+:barjavel.freenode.net 372 hexabot :- Welcome to barjavel.freenode.net in Paris, FR, EU. 
+:barjavel.freenode.net 372 hexabot :- Thanks to Bearstech (www.bearstech.com) for sponsoring
+:barjavel.freenode.net 372 hexabot :- this server!
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+:barjavel.freenode.net 372 hexabot :- science-fiction author, a journalist and a critic. He is
+:barjavel.freenode.net 372 hexabot :- credited with having written the first novel to introduce 
+:barjavel.freenode.net 372 hexabot :- the Grandfather Paradox in time travel, in his 1943 work 
+:barjavel.freenode.net 372 hexabot :- 'Le Voyageur imprudent'.
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:barjavel.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:barjavel.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:barjavel.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:barjavel.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:barjavel.freenode.net 372 hexabot :-                                                                              
+:barjavel.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:barjavel.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:barjavel.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:barjavel.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:barjavel.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:barjavel.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:barjavel.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:barjavel.freenode.net 372 hexabot :- innovation.
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:barjavel.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:barjavel.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:barjavel.freenode.net 372 hexabot :- website.
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- We hope to see you there!
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:barjavel.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:barjavel.freenode.net 372 hexabot :- https://freenode.net
+:barjavel.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+:barjavel.freenode.net 353 hexabot @ #hexatest :hexabot @hexaltation
+:barjavel.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 MODE #hexatest +o hexabot
+PING :barjavel.freenode.net
+:hexabot!~hexabot@163.5.121.140 QUIT :Ping timeout: 240 seconds
+ERROR :Closing Link: 163.5.121.140 (Ping timeout: 240 seconds)
+:orwell.freenode.net NOTICE * :*** Looking up your hostname...
+:orwell.freenode.net NOTICE * :*** Checking Ident
+:orwell.freenode.net NOTICE * :*** Couldn't look up your hostname
+:orwell.freenode.net NOTICE * :*** No Ident response
+:orwell.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:orwell.freenode.net 002 hexabot :Your host is orwell.freenode.net[185.30.166.38/6667], running version ircd-seven-1.1.4
+:orwell.freenode.net 003 hexabot :This server was created Sat Jan 7 2017 at 12:04:42 EST
+:orwell.freenode.net 004 hexabot orwell.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:orwell.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:orwell.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+:orwell.freenode.net 005 hexabot SAFELIST ELIST=CTU ETRACE WHOX :are supported by this server
+:orwell.freenode.net 251 hexabot :There are 117 users and 86383 invisible on 30 servers
+:orwell.freenode.net 252 hexabot 30 :IRC Operators online
+:orwell.freenode.net 253 hexabot 32 :unknown connection(s)
+:orwell.freenode.net 254 hexabot 53336 :channels formed
+:orwell.freenode.net 255 hexabot :I have 5819 clients and 1 servers
+:orwell.freenode.net 265 hexabot 5819 6943 :Current local users 5819, max 6943
+:orwell.freenode.net 266 hexabot 86500 97718 :Current global users 86500, max 97718
+:orwell.freenode.net 250 hexabot :Highest connection count: 6944 (6943 clients) (2883226 connections received)
+:orwell.freenode.net 375 hexabot :- orwell.freenode.net Message of the Day - 
+:orwell.freenode.net 372 hexabot :- Welcome to orwell.freenode.net in Amsterdam, NL.
+:orwell.freenode.net 372 hexabot :- Thanks to http://www.hyperfilter.com/ for sponsoring
+:orwell.freenode.net 372 hexabot :- this server!
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+:orwell.freenode.net 372 hexabot :- moved him to England when he was one year old, and it
+:orwell.freenode.net 372 hexabot :- was in England where he was educated and spent most of
+:orwell.freenode.net 372 hexabot :- his life.  Orwell is perhaps best known for his novels
+:orwell.freenode.net 372 hexabot :- Nineteen Eighty-Four and Animal Farm.
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:orwell.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:orwell.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:orwell.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:orwell.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:orwell.freenode.net 372 hexabot :-                                                                              
+:orwell.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:orwell.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:orwell.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:orwell.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:orwell.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:orwell.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:orwell.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:orwell.freenode.net 372 hexabot :- innovation.
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:orwell.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:orwell.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:orwell.freenode.net 372 hexabot :- website.
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- We hope to see you there!
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:orwell.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:orwell.freenode.net 372 hexabot :- https://freenode.net
+:orwell.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+:orwell.freenode.net 353 hexabot @ #hexatest :hexabot SamR1 @hexaltation
+:orwell.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:SamR1!a30579ec@gateway/web/freenode/ip.163.5.121.236 PRIVMSG #hexatest :hexabot PING
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :!commands
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :hexabot !commands
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :!answer
+:SamR1!a30579ec@gateway/web/freenode/ip.163.5.121.236 PRIVMSG #hexatest :hexabot !answer 
+:SamR1!a30579ec@gateway/web/freenode/ip.163.5.121.236 PRIVMSG #hexatest :hexabot !answer 
+:robby_!a3057983@gateway/web/freenode/ip.163.5.121.131 JOIN #hexatest
+:robby_!a3057983@gateway/web/freenode/ip.163.5.121.131 PRIVMSG #hexatest :cocuocou
+:card.freenode.net NOTICE * :*** Looking up your hostname...
+:card.freenode.net NOTICE * :*** Checking Ident
+:card.freenode.net NOTICE * :*** No Ident response
+:card.freenode.net NOTICE * :*** Couldn't look up your hostname
+:card.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:card.freenode.net 002 hexabot :Your host is card.freenode.net[38.229.70.22/6667], running version ircd-seven-1.1.4
+:card.freenode.net 003 hexabot :This server was created Tue Feb 7 2017 at 17:41:14 UTC
+:card.freenode.net 004 hexabot card.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:card.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:card.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+:card.freenode.net 005 hexabot WHOX SAFELIST ELIST=CTU ETRACE :are supported by this server
+:card.freenode.net 251 hexabot :There are 117 users and 86355 invisible on 30 servers
+:card.freenode.net 252 hexabot 30 :IRC Operators online
+:card.freenode.net 253 hexabot 39 :unknown connection(s)
+:card.freenode.net 254 hexabot 53320 :channels formed
+:card.freenode.net 255 hexabot :I have 5840 clients and 1 servers
+:card.freenode.net 265 hexabot 5840 5961 :Current local users 5840, max 5961
+:card.freenode.net 266 hexabot 86472 89184 :Current global users 86472, max 89184
+:card.freenode.net 250 hexabot :Highest connection count: 5962 (5961 clients) (291172 connections received)
+:card.freenode.net 375 hexabot :- card.freenode.net Message of the Day - 
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- Welcome to card.freenode.net in Washington, DC, US, kindly sponsored by
+:card.freenode.net 372 hexabot :- Team Cymru (http://www.team-cymru.org).
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- CARD, ORSON SCOTT [1951-]. Born in Richland, Washington, Card grew up in
+:card.freenode.net 372 hexabot :- California, Arizona, and Utah. He lived in Brazil for two years as an unpaid
+:card.freenode.net 372 hexabot :- missionary for the Mormon Church. Author of the Ender and Alvin Maker books,
+:card.freenode.net 372 hexabot :- Card's science fiction and fantasy work is strongly influenced by his Mormon
+:card.freenode.net 372 hexabot :- cultural background. The first author to win the Hugo and Nebula novel awards
+:card.freenode.net 372 hexabot :- two years in a row, Card currently lives in Greensboro, North Carolina, US.
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:card.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:card.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:card.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:card.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:card.freenode.net 372 hexabot :-                                                                              
+:card.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:card.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:card.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:card.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:card.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:card.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:card.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:card.freenode.net 372 hexabot :- innovation.
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:card.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:card.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:card.freenode.net 372 hexabot :- website.
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- We hope to see you there!
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:card.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:card.freenode.net 372 hexabot :- https://freenode.net
+:card.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+:card.freenode.net 353 hexabot @ #hexatest :hexabot robby_ SamR1 @hexaltation
+:card.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:robby_!a3057983@gateway/web/freenode/ip.163.5.121.131 PRIVMSG #hexatest :hexabot PING
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 MODE #hexatest +o hexabot
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 MODE #hexatest +v robby_
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 MODE #hexatest +v SamR1
+PING :card.freenode.net
+:hexabot!~hexabot@163.5.121.140 QUIT :Ping timeout: 240 seconds
+ERROR :Closing Link: 163.5.121.140 (Ping timeout: 240 seconds)
+HEXABOT : PRIVMSG #hexatest :TOPIC #hexatest Welcome to #hexatest.to get list of bot commands : "hexabot !commands"
+:niven.freenode.net NOTICE * :*** Looking up your hostname...
+:niven.freenode.net NOTICE * :*** Checking Ident
+:niven.freenode.net NOTICE * :*** Couldn't look up your hostname
+:niven.freenode.net NOTICE * :*** No Ident response
+:niven.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:niven.freenode.net 002 hexabot :Your host is niven.freenode.net[139.162.227.51/6667], running version ircd-seven-1.1.4
+:niven.freenode.net 003 hexabot :This server was created Thu Jan 5 2017 at 04:18:05 UTC
+:niven.freenode.net 004 hexabot niven.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:niven.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:niven.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU CPRIVMSG :are supported by this server
+:niven.freenode.net 005 hexabot CNOTICE WHOX ETRACE KNOCK :are supported by this server
+:niven.freenode.net 251 hexabot :There are 116 users and 87270 invisible on 30 servers
+:niven.freenode.net 252 hexabot 30 :IRC Operators online
+:niven.freenode.net 253 hexabot 57 :unknown connection(s)
+:niven.freenode.net 254 hexabot 53415 :channels formed
+:niven.freenode.net 255 hexabot :I have 5989 clients and 1 servers
+:niven.freenode.net 265 hexabot 5989 10443 :Current local users 5989, max 10443
+:niven.freenode.net 266 hexabot 87386 97718 :Current global users 87386, max 97718
+:niven.freenode.net 250 hexabot :Highest connection count: 10444 (10443 clients) (1842368 connections received)
+:niven.freenode.net 375 hexabot :- niven.freenode.net Message of the Day - 
+:niven.freenode.net 372 hexabot :- Welcome to niven.freenode.net in London, United Kingdom, EU.
+:niven.freenode.net 372 hexabot :- thanks to Linode for sponsoring this server!
+:niven.freenode.net 372 hexabot :-  
+:niven.freenode.net 372 hexabot :- NIVEN, LAWRENCE VAN COTT [1938-].  Architect of Known Space,
+:niven.freenode.net 372 hexabot :- the setting of Protector, World of Ptaavs and the
+:niven.freenode.net 372 hexabot :- Ringworld series.  Author of "Flash Crowd", a canonical
+:niven.freenode.net 372 hexabot :- sociological hard science fiction short story dealing with
+:niven.freenode.net 372 hexabot :- effects of near instantaneous transportation on a modern
+:niven.freenode.net 372 hexabot :- technological society.  In addition, he is well known for his
+:niven.freenode.net 372 hexabot :- collaborations with Jerry Pournelle, including The Mote in
+:niven.freenode.net 372 hexabot :- God's Eye and Lucifer's Hammer.
+:niven.freenode.net 372 hexabot :-  
+:niven.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:niven.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:niven.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:niven.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:niven.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:niven.freenode.net 372 hexabot :-                                                                              
+:niven.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:niven.freenode.net 372 hexabot :-  
+:niven.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:niven.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:niven.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:niven.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:niven.freenode.net 372 hexabot :-  
+:niven.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:niven.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:niven.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:niven.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:niven.freenode.net 372 hexabot :- innovation.
+:niven.freenode.net 372 hexabot :-  
+:niven.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:niven.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:niven.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:niven.freenode.net 372 hexabot :- website.
+:niven.freenode.net 372 hexabot :-  
+:niven.freenode.net 372 hexabot :-  
+:niven.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:niven.freenode.net 372 hexabot :-  
+:niven.freenode.net 372 hexabot :- We hope to see you there!
+:niven.freenode.net 372 hexabot :-  
+:niven.freenode.net 372 hexabot :-  
+:niven.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:niven.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:niven.freenode.net 372 hexabot :- https://freenode.net
+:niven.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+:niven.freenode.net 353 hexabot @ #hexatest :hexabot +robby_ @hexaltation
+:niven.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+PING :niven.freenode.net
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 MODE #hexatest +o hexabot
+:hexabot!~hexabot@163.5.121.140 QUIT :Ping timeout: 240 seconds
+ERROR :Closing Link: 163.5.121.140 (Ping timeout: 240 seconds)
+HEXABOT : PRIVMSG #hexatest :TOPIC #hexatest Welcome to #hexatest.to get list of bot commands : "hexabot !commands"
+:weber.freenode.net NOTICE * :*** Looking up your hostname...
+:weber.freenode.net NOTICE * :*** Checking Ident
+:weber.freenode.net NOTICE * :*** No Ident response
+:weber.freenode.net NOTICE * :*** Couldn't look up your hostname
+:weber.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:weber.freenode.net 002 hexabot :Your host is weber.freenode.net[162.213.39.42/6667], running version ircd-seven-1.1.4
+:weber.freenode.net 003 hexabot :This server was created Thu Jan 26 2017 at 20:12:59 UTC
+:weber.freenode.net 004 hexabot weber.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:weber.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:weber.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU KNOCK :are supported by this server
+:weber.freenode.net 005 hexabot CPRIVMSG CNOTICE WHOX ETRACE :are supported by this server
+:weber.freenode.net 251 hexabot :There are 116 users and 87296 invisible on 30 servers
+:weber.freenode.net 252 hexabot 30 :IRC Operators online
+:weber.freenode.net 253 hexabot 49 :unknown connection(s)
+:weber.freenode.net 254 hexabot 53428 :channels formed
+:weber.freenode.net 255 hexabot :I have 5352 clients and 1 servers
+:weber.freenode.net 265 hexabot 5352 5870 :Current local users 5352, max 5870
+:weber.freenode.net 266 hexabot 87412 89184 :Current global users 87412, max 89184
+:weber.freenode.net 250 hexabot :Highest connection count: 5871 (5870 clients) (335957 connections received)
+:weber.freenode.net 375 hexabot :- weber.freenode.net Message of the Day - 
+:weber.freenode.net 372 hexabot :- Welcome to weber.freenode.net in California, USA.
+:weber.freenode.net 372 hexabot :- Thanks to https://www.cloudsigma.com/ for sponsoring
+:weber.freenode.net 372 hexabot :- this server!
+:weber.freenode.net 372 hexabot :-  
+:weber.freenode.net 372 hexabot :- WEBER, DAVID M. (1952-), an American fantasy and scifi
+:weber.freenode.net 372 hexabot :- author. Best known for his 'Honor Harrington' series, his
+:weber.freenode.net 372 hexabot :- works span several genres, including alternate history,
+:weber.freenode.net 372 hexabot :- epic fantasy, military scifi and space opera. He's also
+:weber.freenode.net 372 hexabot :- done wargame design mainly for the StarFire tabletop
+:weber.freenode.net 372 hexabot :- boardgame series, a job which later evolved into the novel,
+:weber.freenode.net 372 hexabot :- 'Insurrection' (collaboration with Steve White, published
+:weber.freenode.net 372 hexabot :- in 1990).
+:weber.freenode.net 372 hexabot :-  
+:weber.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:weber.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:weber.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:weber.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:weber.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:weber.freenode.net 372 hexabot :-                                                                              
+:weber.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:weber.freenode.net 372 hexabot :-  
+:weber.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:weber.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:weber.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:weber.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:weber.freenode.net 372 hexabot :-  
+:weber.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:weber.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:weber.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:weber.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:weber.freenode.net 372 hexabot :- innovation.
+:weber.freenode.net 372 hexabot :-  
+:weber.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:weber.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:weber.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:weber.freenode.net 372 hexabot :- website.
+:weber.freenode.net 372 hexabot :-  
+:weber.freenode.net 372 hexabot :-  
+:weber.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:weber.freenode.net 372 hexabot :-  
+:weber.freenode.net 372 hexabot :- We hope to see you there!
+:weber.freenode.net 372 hexabot :-  
+:weber.freenode.net 372 hexabot :-  
+:weber.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:weber.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:weber.freenode.net 372 hexabot :- https://freenode.net
+:weber.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+:weber.freenode.net 353 hexabot @ #hexatest :hexabot +robby_ @hexaltation
+:weber.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 MODE #hexatest +o hexabot
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 QUIT :
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexaltation
+HEXABOT : PRIVMSG #hexatest :MODE #hexatest +o hexaltation
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 JOIN #hexatest
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :hello
+PING :weber.freenode.net
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PART #hexatest
+:hexabot!~hexabot@163.5.121.140 QUIT :Ping timeout: 248 seconds
+ERROR :Closing Link: 163.5.121.140 (Ping timeout: 248 seconds)
+:orwell.freenode.net NOTICE * :*** Looking up your hostname...
+:orwell.freenode.net NOTICE * :*** Checking Ident
+:orwell.freenode.net NOTICE * :*** Couldn't look up your hostname
+:orwell.freenode.net NOTICE * :*** No Ident response
+:orwell.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:orwell.freenode.net 002 hexabot :Your host is orwell.freenode.net[185.30.166.38/6667], running version ircd-seven-1.1.4
+:orwell.freenode.net 003 hexabot :This server was created Sat Jan 7 2017 at 12:04:42 EST
+:orwell.freenode.net 004 hexabot orwell.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:orwell.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:orwell.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+:orwell.freenode.net 005 hexabot SAFELIST ELIST=CTU ETRACE WHOX :are supported by this server
+:orwell.freenode.net 251 hexabot :There are 116 users and 87405 invisible on 30 servers
+:orwell.freenode.net 252 hexabot 30 :IRC Operators online
+:orwell.freenode.net 253 hexabot 33 :unknown connection(s)
+:orwell.freenode.net 254 hexabot 53444 :channels formed
+:orwell.freenode.net 255 hexabot :I have 5890 clients and 1 servers
+:orwell.freenode.net 265 hexabot 5890 6943 :Current local users 5890, max 6943
+:orwell.freenode.net 266 hexabot 87521 97718 :Current global users 87521, max 97718
+:orwell.freenode.net 250 hexabot :Highest connection count: 6944 (6943 clients) (2884722 connections received)
+:orwell.freenode.net 375 hexabot :- orwell.freenode.net Message of the Day - 
+:orwell.freenode.net 372 hexabot :- Welcome to orwell.freenode.net in Amsterdam, NL.
+:orwell.freenode.net 372 hexabot :- Thanks to http://www.hyperfilter.com/ for sponsoring
+:orwell.freenode.net 372 hexabot :- this server!
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+:orwell.freenode.net 372 hexabot :- moved him to England when he was one year old, and it
+:orwell.freenode.net 372 hexabot :- was in England where he was educated and spent most of
+:orwell.freenode.net 372 hexabot :- his life.  Orwell is perhaps best known for his novels
+:orwell.freenode.net 372 hexabot :- Nineteen Eighty-Four and Animal Farm.
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:orwell.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:orwell.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:orwell.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:orwell.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:orwell.freenode.net 372 hexabot :-                                                                              
+:orwell.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:orwell.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:orwell.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:orwell.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:orwell.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:orwell.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:orwell.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:orwell.freenode.net 372 hexabot :- innovation.
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:orwell.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:orwell.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:orwell.freenode.net 372 hexabot :- website.
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- We hope to see you there!
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:orwell.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:orwell.freenode.net 372 hexabot :- https://freenode.net
+:orwell.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+:orwell.freenode.net MODE #hexatest +ns
+:orwell.freenode.net 353 hexabot @ #hexatest :@hexabot
+:orwell.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexabot!~hexabot@163.5.121.140 TOPIC #hexatest :Welcome
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexaltation
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 JOIN #hexatest
+PING :orwell.freenode.net
+:orwell.freenode.net NOTICE * :*** Looking up your hostname...
+:orwell.freenode.net NOTICE * :*** Checking Ident
+:orwell.freenode.net NOTICE * :*** Couldn't look up your hostname
+:orwell.freenode.net NOTICE * :*** No Ident response
+:orwell.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:orwell.freenode.net 002 hexabot :Your host is orwell.freenode.net[185.30.166.38/6667], running version ircd-seven-1.1.4
+:orwell.freenode.net 003 hexabot :This server was created Sat Jan 7 2017 at 12:04:42 EST
+:orwell.freenode.net 004 hexabot orwell.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:orwell.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:orwell.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+:orwell.freenode.net 005 hexabot SAFELIST ELIST=CTU ETRACE WHOX :are supported by this server
+:orwell.freenode.net 251 hexabot :There are 116 users and 87423 invisible on 30 servers
+:orwell.freenode.net 252 hexabot 30 :IRC Operators online
+:orwell.freenode.net 253 hexabot 44 :unknown connection(s)
+:orwell.freenode.net 254 hexabot 53440 :channels formed
+:orwell.freenode.net 255 hexabot :I have 5906 clients and 1 servers
+:orwell.freenode.net 265 hexabot 5906 6943 :Current local users 5906, max 6943
+:orwell.freenode.net 266 hexabot 87539 97718 :Current global users 87539, max 97718
+:orwell.freenode.net 250 hexabot :Highest connection count: 6944 (6943 clients) (2884776 connections received)
+:orwell.freenode.net 375 hexabot :- orwell.freenode.net Message of the Day - 
+:orwell.freenode.net 372 hexabot :- Welcome to orwell.freenode.net in Amsterdam, NL.
+:orwell.freenode.net 372 hexabot :- Thanks to http://www.hyperfilter.com/ for sponsoring
+:orwell.freenode.net 372 hexabot :- this server!
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- ORWELL, GEORGE [1903 - 1950] Born in India, his mother
+:orwell.freenode.net 372 hexabot :- moved him to England when he was one year old, and it
+:orwell.freenode.net 372 hexabot :- was in England where he was educated and spent most of
+:orwell.freenode.net 372 hexabot :- his life.  Orwell is perhaps best known for his novels
+:orwell.freenode.net 372 hexabot :- Nineteen Eighty-Four and Animal Farm.
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:orwell.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:orwell.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:orwell.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:orwell.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:orwell.freenode.net 372 hexabot :-                                                                              
+:orwell.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:orwell.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:orwell.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:orwell.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:orwell.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:orwell.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:orwell.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:orwell.freenode.net 372 hexabot :- innovation.
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:orwell.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:orwell.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:orwell.freenode.net 372 hexabot :- website.
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- We hope to see you there!
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :-  
+:orwell.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:orwell.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:orwell.freenode.net 372 hexabot :- https://freenode.net
+:orwell.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+:orwell.freenode.net 332 hexabot #hexatest :Welcome
+:orwell.freenode.net 333 hexabot #hexatest hexabot!~hexabot@163.5.121.140 1504788343
+:orwell.freenode.net 353 hexabot @ #hexatest :hexabot hexaltation
+:orwell.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexabot!~hexabot@163.5.121.140 TOPIC #hexatest :Welcome
+:barjavel.freenode.net NOTICE * :*** Looking up your hostname...
+:barjavel.freenode.net NOTICE * :*** Checking Ident
+:barjavel.freenode.net NOTICE * :*** Couldn't look up your hostname
+:barjavel.freenode.net NOTICE * :*** No Ident response
+:barjavel.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:barjavel.freenode.net 002 hexabot :Your host is barjavel.freenode.net[195.154.200.232/6667], running version ircd-seven-1.1.4
+:barjavel.freenode.net 003 hexabot :This server was created Sat Jan 7 2017 at 03:00:47 CET
+:barjavel.freenode.net 004 hexabot barjavel.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:barjavel.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:barjavel.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU WHOX :are supported by this server
+:barjavel.freenode.net 005 hexabot ETRACE CPRIVMSG CNOTICE KNOCK :are supported by this server
+:barjavel.freenode.net 251 hexabot :There are 116 users and 87452 invisible on 30 servers
+:barjavel.freenode.net 252 hexabot 30 :IRC Operators online
+:barjavel.freenode.net 253 hexabot 28 :unknown connection(s)
+:barjavel.freenode.net 254 hexabot 53449 :channels formed
+:barjavel.freenode.net 255 hexabot :I have 5926 clients and 1 servers
+:barjavel.freenode.net 265 hexabot 5926 7620 :Current local users 5926, max 7620
+:barjavel.freenode.net 266 hexabot 87568 97718 :Current global users 87568, max 97718
+:barjavel.freenode.net 250 hexabot :Highest connection count: 7621 (7620 clients) (2329096 connections received)
+:barjavel.freenode.net 375 hexabot :- barjavel.freenode.net Message of the Day - 
+:barjavel.freenode.net 372 hexabot :- Welcome to barjavel.freenode.net in Paris, FR, EU. 
+:barjavel.freenode.net 372 hexabot :- Thanks to Bearstech (www.bearstech.com) for sponsoring
+:barjavel.freenode.net 372 hexabot :- this server!
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+:barjavel.freenode.net 372 hexabot :- science-fiction author, a journalist and a critic. He is
+:barjavel.freenode.net 372 hexabot :- credited with having written the first novel to introduce 
+:barjavel.freenode.net 372 hexabot :- the Grandfather Paradox in time travel, in his 1943 work 
+:barjavel.freenode.net 372 hexabot :- 'Le Voyageur imprudent'.
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:barjavel.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:barjavel.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:barjavel.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:barjavel.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:barjavel.freenode.net 372 hexabot :-                                                                              
+:barjavel.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:barjavel.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:barjavel.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:barjavel.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:barjavel.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:barjavel.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:barjavel.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:barjavel.freenode.net 372 hexabot :- innovation.
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:barjavel.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:barjavel.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:barjavel.freenode.net 372 hexabot :- website.
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- We hope to see you there!
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:barjavel.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:barjavel.freenode.net 372 hexabot :- https://freenode.net
+:barjavel.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+:barjavel.freenode.net 353 hexabot @ #hexatest :hexabot @hexaltation
+:barjavel.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexabot!~hexabot@163.5.121.140 TOPIC #hexatest :Welcome
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 MODE #hexatest +o hexabot
+PING :barjavel.freenode.net
+:hexabot!~hexabot@163.5.121.140 QUIT :Ping timeout: 240 seconds
+ERROR :Closing Link: 163.5.121.140 (Ping timeout: 240 seconds)
+:verne.freenode.net NOTICE * :*** Looking up your hostname...
+:verne.freenode.net NOTICE * :*** Checking Ident
+:verne.freenode.net NOTICE * :*** Couldn't look up your hostname
+:verne.freenode.net NOTICE * :*** No Ident response
+:verne.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:verne.freenode.net 002 hexabot :Your host is verne.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.4
+:verne.freenode.net 003 hexabot :This server was created Sat Jan 7 2017 at 11:53:54 EST
+:verne.freenode.net 004 hexabot verne.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:verne.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:verne.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE WHOX KNOCK :are supported by this server
+:verne.freenode.net 005 hexabot SAFELIST ELIST=CTU CPRIVMSG CNOTICE :are supported by this server
+:verne.freenode.net 251 hexabot :There are 116 users and 87514 invisible on 30 servers
+:verne.freenode.net 252 hexabot 30 :IRC Operators online
+:verne.freenode.net 253 hexabot 35 :unknown connection(s)
+:verne.freenode.net 254 hexabot 53452 :channels formed
+:verne.freenode.net 255 hexabot :I have 5889 clients and 2 servers
+:verne.freenode.net 265 hexabot 5889 7978 :Current local users 5889, max 7978
+:verne.freenode.net 266 hexabot 87630 97718 :Current global users 87630, max 97718
+:verne.freenode.net 250 hexabot :Highest connection count: 7980 (7978 clients) (2727630 connections received)
+:verne.freenode.net 375 hexabot :- verne.freenode.net Message of the Day - 
+:verne.freenode.net 372 hexabot :- Welcome to verne.freenode.net in Amsterdam, NL.
+:verne.freenode.net 372 hexabot :- Thanks to http://www.hyperfilter.com/ for sponsoring
+:verne.freenode.net 372 hexabot :- this server!
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+:verne.freenode.net 372 hexabot :- a pioneering french author known for novels such as Twenty
+:verne.freenode.net 372 hexabot :- Thousand Leagues Under the Sea, A Journey to the Center of the
+:verne.freenode.net 372 hexabot :- Earth, and Around the World in Eighty Days. Often lauded as the
+:verne.freenode.net 372 hexabot :- Father of science fiction, Verne wrote about concepts such as
+:verne.freenode.net 372 hexabot :- space travel, skyscrapers, and worldwide communications
+:verne.freenode.net 372 hexabot :- networks long before these ideas became popularised or realised.
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:verne.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:verne.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:verne.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:verne.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:verne.freenode.net 372 hexabot :-                                                                              
+:verne.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:verne.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:verne.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:verne.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:verne.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:verne.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:verne.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:verne.freenode.net 372 hexabot :- innovation.
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:verne.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:verne.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:verne.freenode.net 372 hexabot :- website.
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- We hope to see you there!
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:verne.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:verne.freenode.net 372 hexabot :- https://freenode.net
+:verne.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+:verne.freenode.net 332 hexabot #hexatest :Welcome
+:verne.freenode.net 333 hexabot #hexatest hexabot!~hexabot@163.5.121.140 1504788493
+:verne.freenode.net 353 hexabot @ #hexatest :hexabot @hexaltation
+:verne.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexabot!~hexabot@163.5.121.140 TOPIC #hexatest :Welcome
+:card.freenode.net NOTICE * :*** Looking up your hostname...
+:card.freenode.net NOTICE * :*** Checking Ident
+:card.freenode.net NOTICE * :*** No Ident response
+:card.freenode.net NOTICE * :*** Couldn't look up your hostname
+:card.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:card.freenode.net 002 hexabot :Your host is card.freenode.net[38.229.70.22/6667], running version ircd-seven-1.1.4
+:card.freenode.net 003 hexabot :This server was created Tue Feb 7 2017 at 17:41:14 UTC
+:card.freenode.net 004 hexabot card.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:card.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:card.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+:card.freenode.net 005 hexabot WHOX SAFELIST ELIST=CTU ETRACE :are supported by this server
+:card.freenode.net 251 hexabot :There are 117 users and 87537 invisible on 30 servers
+:card.freenode.net 252 hexabot 30 :IRC Operators online
+:card.freenode.net 253 hexabot 47 :unknown connection(s)
+:card.freenode.net 254 hexabot 53446 :channels formed
+:card.freenode.net 255 hexabot :I have 5866 clients and 1 servers
+:card.freenode.net 265 hexabot 5866 5962 :Current local users 5866, max 5962
+:card.freenode.net 266 hexabot 87654 89184 :Current global users 87654, max 89184
+:card.freenode.net 250 hexabot :Highest connection count: 5963 (5962 clients) (292405 connections received)
+:card.freenode.net 375 hexabot :- card.freenode.net Message of the Day - 
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- Welcome to card.freenode.net in Washington, DC, US, kindly sponsored by
+:card.freenode.net 372 hexabot :- Team Cymru (http://www.team-cymru.org).
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- CARD, ORSON SCOTT [1951-]. Born in Richland, Washington, Card grew up in
+:card.freenode.net 372 hexabot :- California, Arizona, and Utah. He lived in Brazil for two years as an unpaid
+:card.freenode.net 372 hexabot :- missionary for the Mormon Church. Author of the Ender and Alvin Maker books,
+:card.freenode.net 372 hexabot :- Card's science fiction and fantasy work is strongly influenced by his Mormon
+:card.freenode.net 372 hexabot :- cultural background. The first author to win the Hugo and Nebula novel awards
+:card.freenode.net 372 hexabot :- two years in a row, Card currently lives in Greensboro, North Carolina, US.
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:card.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:card.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:card.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:card.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:card.freenode.net 372 hexabot :-                                                                              
+:card.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:card.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:card.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:card.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:card.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:card.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:card.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:card.freenode.net 372 hexabot :- innovation.
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:card.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:card.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:card.freenode.net 372 hexabot :- website.
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- We hope to see you there!
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:card.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:card.freenode.net 372 hexabot :- https://freenode.net
+:card.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+:card.freenode.net 332 hexabot #hexatest :Welcome
+:card.freenode.net 333 hexabot #hexatest hexabot!~hexabot@163.5.121.140 1504788862
+:card.freenode.net 353 hexabot @ #hexatest :hexabot @hexaltation
+:card.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+HEXABOT : PRIVMSG #hexatest :Here is the list of avalaible commands :
+HEXABOT : PRIVMSG #hexatest :Usage :         nameOfBot !nameOfCommand
+HEXABOT : PRIVMSG #hexatest :!commands: Display list of commands
+HEXABOT : PRIVMSG #hexatest :!answer: Give answer to Life the Universeand all the rest
+:hexabot!~hexabot@163.5.121.140 TOPIC #hexatest :Welcome to #hexatest.to get list of bot commands : "hexabot !commands"PRIVMSG #hexatest :Everybody say hello to hexabot
+:card.freenode.net NOTICE * :*** Looking up your hostname...
+:card.freenode.net NOTICE * :*** Checking Ident
+:card.freenode.net NOTICE * :*** Couldn't look up your hostname
+:card.freenode.net NOTICE * :*** No Ident response
+:card.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:card.freenode.net 002 hexabot :Your host is card.freenode.net[38.229.70.22/6667], running version ircd-seven-1.1.4
+:card.freenode.net 003 hexabot :This server was created Tue Feb 7 2017 at 17:41:14 UTC
+:card.freenode.net 004 hexabot card.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:card.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:card.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 KNOCK CPRIVMSG CNOTICE :are supported by this server
+:card.freenode.net 005 hexabot WHOX SAFELIST ELIST=CTU ETRACE :are supported by this server
+:card.freenode.net 251 hexabot :There are 117 users and 87533 invisible on 30 servers
+:card.freenode.net 252 hexabot 30 :IRC Operators online
+:card.freenode.net 253 hexabot 29 :unknown connection(s)
+:card.freenode.net 254 hexabot 53454 :channels formed
+:card.freenode.net 255 hexabot :I have 5881 clients and 1 servers
+:card.freenode.net 265 hexabot 5881 5962 :Current local users 5881, max 5962
+:card.freenode.net 266 hexabot 87650 89184 :Current global users 87650, max 89184
+:card.freenode.net 250 hexabot :Highest connection count: 5963 (5962 clients) (292446 connections received)
+:card.freenode.net 375 hexabot :- card.freenode.net Message of the Day - 
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- Welcome to card.freenode.net in Washington, DC, US, kindly sponsored by
+:card.freenode.net 372 hexabot :- Team Cymru (http://www.team-cymru.org).
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- CARD, ORSON SCOTT [1951-]. Born in Richland, Washington, Card grew up in
+:card.freenode.net 372 hexabot :- California, Arizona, and Utah. He lived in Brazil for two years as an unpaid
+:card.freenode.net 372 hexabot :- missionary for the Mormon Church. Author of the Ender and Alvin Maker books,
+:card.freenode.net 372 hexabot :- Card's science fiction and fantasy work is strongly influenced by his Mormon
+:card.freenode.net 372 hexabot :- cultural background. The first author to win the Hugo and Nebula novel awards
+:card.freenode.net 372 hexabot :- two years in a row, Card currently lives in Greensboro, North Carolina, US.
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:card.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:card.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:card.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:card.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:card.freenode.net 372 hexabot :-                                                                              
+:card.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:card.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:card.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:card.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:card.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:card.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:card.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:card.freenode.net 372 hexabot :- innovation.
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:card.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:card.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:card.freenode.net 372 hexabot :- website.
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- We hope to see you there!
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :-  
+:card.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:card.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:card.freenode.net 372 hexabot :- https://freenode.net
+:card.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+HEXABOT : PRIVMSG #hexatest :Here is the list of avalaible commands :
+HEXABOT : PRIVMSG #hexatest :Usage :         nameOfBot !nameOfCommand
+HEXABOT : PRIVMSG #hexatest :!commands: Display list of commands
+HEXABOT : PRIVMSG #hexatest :!answer: Give answer to Life the Universeand all the rest
+:card.freenode.net 332 hexabot #hexatest :Welcome to #hexatest.to get list of bot commands : "hexabot !commands"PRIVMSG #hexatest :Everybody say hello to hexabot
+:card.freenode.net 333 hexabot #hexatest hexabot!~hexabot@163.5.121.140 1504788965
+:card.freenode.net 353 hexabot @ #hexatest :hexabot @hexaltation
+:card.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexabot!~hexabot@163.5.121.140 TOPIC #hexatest :Welcome to #hexatest.to get list of bot commands : "hexabot !commands"
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PART #hexatest
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexaltation
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 JOIN #hexatest
+:verne.freenode.net NOTICE * :*** Looking up your hostname...
+:verne.freenode.net NOTICE * :*** Checking Ident
+:verne.freenode.net NOTICE * :*** Couldn't look up your hostname
+:verne.freenode.net NOTICE * :*** No Ident response
+:verne.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:verne.freenode.net 002 hexabot :Your host is verne.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.4
+:verne.freenode.net 003 hexabot :This server was created Sat Jan 7 2017 at 11:53:54 EST
+:verne.freenode.net 004 hexabot verne.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:verne.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:verne.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE WHOX KNOCK :are supported by this server
+:verne.freenode.net 005 hexabot SAFELIST ELIST=CTU CPRIVMSG CNOTICE :are supported by this server
+:verne.freenode.net 251 hexabot :There are 117 users and 87566 invisible on 30 servers
+:verne.freenode.net 252 hexabot 30 :IRC Operators online
+:verne.freenode.net 253 hexabot 37 :unknown connection(s)
+:verne.freenode.net 254 hexabot 53463 :channels formed
+:verne.freenode.net 255 hexabot :I have 5925 clients and 2 servers
+:verne.freenode.net 265 hexabot 5925 7978 :Current local users 5925, max 7978
+:verne.freenode.net 266 hexabot 87683 97718 :Current global users 87683, max 97718
+:verne.freenode.net 250 hexabot :Highest connection count: 7980 (7978 clients) (2727728 connections received)
+:verne.freenode.net 375 hexabot :- verne.freenode.net Message of the Day - 
+:verne.freenode.net 372 hexabot :- Welcome to verne.freenode.net in Amsterdam, NL.
+:verne.freenode.net 372 hexabot :- Thanks to http://www.hyperfilter.com/ for sponsoring
+:verne.freenode.net 372 hexabot :- this server!
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+:verne.freenode.net 372 hexabot :- a pioneering french author known for novels such as Twenty
+:verne.freenode.net 372 hexabot :- Thousand Leagues Under the Sea, A Journey to the Center of the
+:verne.freenode.net 372 hexabot :- Earth, and Around the World in Eighty Days. Often lauded as the
+:verne.freenode.net 372 hexabot :- Father of science fiction, Verne wrote about concepts such as
+:verne.freenode.net 372 hexabot :- space travel, skyscrapers, and worldwide communications
+:verne.freenode.net 372 hexabot :- networks long before these ideas became popularised or realised.
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:verne.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:verne.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:verne.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:verne.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:verne.freenode.net 372 hexabot :-                                                                              
+:verne.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:verne.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:verne.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:verne.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:verne.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:verne.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:verne.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:verne.freenode.net 372 hexabot :- innovation.
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:verne.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:verne.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:verne.freenode.net 372 hexabot :- website.
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- We hope to see you there!
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:verne.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:verne.freenode.net 372 hexabot :- https://freenode.net
+:verne.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+HEXABOT : PRIVMSG #hexatest :Here is the list of avalaible commands :
+HEXABOT : PRIVMSG #hexatest :Usage :         nameOfBot !nameOfCommand
+HEXABOT : PRIVMSG #hexatest :!commands: Display list of commands
+HEXABOT : PRIVMSG #hexatest :!answer: Give answer to Life the Universeand all the rest
+:verne.freenode.net 353 hexabot @ #hexatest :hexabot @hexaltation
+:verne.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexabot!~hexabot@163.5.121.140 TOPIC #hexatest :Welcome to #hexatest.to get list of bot commands : "hexabot !commands"
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 MODE #hexatest +o hexabot
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PART #hexatest
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexaltation
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 JOIN #hexatest
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :!commands
+PING :verne.freenode.net
+HEXABOT : PRIVMSG #hexatest :Here is the list of avalaible commands :
+HEXABOT : PRIVMSG #hexatest :Usage :         nameOfBot !nameOfCommand
+HEXABOT : PRIVMSG #hexatest :!commands: Display list of commands
+HEXABOT : PRIVMSG #hexatest :!answer: Give answer to Life the Universeand all the rest
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :hexabot !commands
+:verne.freenode.net 401 hexabot hexaltationPRIVMSG :No such nick/channel
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :!answer
+HEXABOT : PRIVMSG #hexatest :SCHNELLLLLLL
+
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :hexabot !rhaus
+:adams.freenode.net NOTICE * :*** Looking up your hostname...
+:adams.freenode.net NOTICE * :*** Checking Ident
+:adams.freenode.net NOTICE * :*** Couldn't look up your hostname
+:adams.freenode.net NOTICE * :*** No Ident response
+:adams.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:adams.freenode.net 002 hexabot :Your host is adams.freenode.net[94.125.182.252/6667], running version ircd-seven-1.1.4
+:adams.freenode.net 003 hexabot :This server was created Mon Jan 9 2017 at 14:25:49 CET
+:adams.freenode.net 004 hexabot adams.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:adams.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:adams.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+:adams.freenode.net 005 hexabot KNOCK SAFELIST ELIST=CTU WHOX :are supported by this server
+:adams.freenode.net 251 hexabot :There are 121 users and 87981 invisible on 30 servers
+:adams.freenode.net 252 hexabot 30 :IRC Operators online
+:adams.freenode.net 253 hexabot 35 :unknown connection(s)
+:adams.freenode.net 254 hexabot 53589 :channels formed
+:adams.freenode.net 255 hexabot :I have 5980 clients and 1 servers
+:adams.freenode.net 265 hexabot 5980 6357 :Current local users 5980, max 6357
+:adams.freenode.net 266 hexabot 88102 88950 :Current global users 88102, max 88950
+:adams.freenode.net 250 hexabot :Highest connection count: 6358 (6357 clients) (254853 connections received)
+:adams.freenode.net 375 hexabot :- adams.freenode.net Message of the Day - 
+:adams.freenode.net 372 hexabot :- Welcome to adams.freenode.net. Thanks to ATW Internet Kft 
+:adams.freenode.net 372 hexabot :- (http://www.atw.hu) for sponsoring this server!
+:adams.freenode.net 372 hexabot :-  
+:adams.freenode.net 372 hexabot :- ADAMS, DOUGLAS (1952-2001).  Author of The Hitch Hikers Guide
+:adams.freenode.net 372 hexabot :- to the Galaxy and many other witty and humourous books,
+:adams.freenode.net 372 hexabot :- portrayed in his uniquely British irony. He is sorely missed
+:adams.freenode.net 372 hexabot :- by many millions of devoted fans. "So long and thanks for all
+:adams.freenode.net 372 hexabot :- the books!"
+:adams.freenode.net 372 hexabot :-  
+:adams.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:adams.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:adams.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:adams.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:adams.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:adams.freenode.net 372 hexabot :-                                                                              
+:adams.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:adams.freenode.net 372 hexabot :-  
+:adams.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:adams.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:adams.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:adams.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:adams.freenode.net 372 hexabot :-  
+:adams.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:adams.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:adams.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:adams.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:adams.freenode.net 372 hexabot :- innovation.
+:adams.freenode.net 372 hexabot :-  
+:adams.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:adams.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:adams.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:adams.freenode.net 372 hexabot :- website.
+:adams.freenode.net 372 hexabot :-  
+:adams.freenode.net 372 hexabot :-  
+:adams.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:adams.freenode.net 372 hexabot :-  
+:adams.freenode.net 372 hexabot :- We hope to see you there!
+:adams.freenode.net 372 hexabot :-  
+:adams.freenode.net 372 hexabot :-  
+:adams.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:adams.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:adams.freenode.net 372 hexabot :- https://freenode.net
+:adams.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+:NickServ!NickServ@services. NOTICE hexabot :This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+HEXABOT : PRIVMSG #hexatest :Here is the list of avalaible commands :
+HEXABOT : PRIVMSG #hexatest :Usage :         nameOfBot !nameOfCommand
+HEXABOT : PRIVMSG #hexatest :!commands: Display list of commands
+HEXABOT : PRIVMSG #hexatest :!answer: Give answer to Life the Universeand all the rest
+:adams.freenode.net MODE #hexatest +ns
+:adams.freenode.net 353 hexabot @ #hexatest :@hexabot
+:adams.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexabot!~hexabot@163.5.121.140 TOPIC #hexatest :Welcome to #hexatest.to get list of bot commands : "hexabot !commands"
+:NickServ!NickServ@services. NOTICE hexabot :You are now identified for hexabot.
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexaltation
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 JOIN #hexatest
+HEXABOT : PRIVMSG #hexatest :42
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :hexabot !answer
+:adams.freenode.net 401 hexabot hexaltationPRIVMSG :No such nick/channel
+HEXABOT : PRIVMSG #hexatest :Here is the list of avalaible commands :
+HEXABOT : PRIVMSG #hexatest :Usage :         nameOfBot !nameOfCommand
+HEXABOT : PRIVMSG #hexatest :!commands: Display list of commands
+HEXABOT : PRIVMSG #hexatest :!answer: Give answer to Life the Universeand all the rest
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :hexabot !commands
+HEXABOT : PRIVMSG #hexatest :42
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :hexabot !answer
+HEXABOT : PRIVMSG #hexatest :PONG
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :hexabot PING
+PING :adams.freenode.net
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PART #hexatest
+:barjavel.freenode.net NOTICE * :*** Looking up your hostname...
+:barjavel.freenode.net NOTICE * :*** Checking Ident
+:barjavel.freenode.net NOTICE * :*** Couldn't look up your hostname
+:barjavel.freenode.net NOTICE * :*** No Ident response
+:barjavel.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:barjavel.freenode.net 002 hexabot :Your host is barjavel.freenode.net[195.154.200.232/6667], running version ircd-seven-1.1.4
+:barjavel.freenode.net 003 hexabot :This server was created Sat Jan 7 2017 at 03:00:47 CET
+:barjavel.freenode.net 004 hexabot barjavel.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:barjavel.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:barjavel.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU WHOX :are supported by this server
+:barjavel.freenode.net 005 hexabot ETRACE CPRIVMSG CNOTICE KNOCK :are supported by this server
+:barjavel.freenode.net 251 hexabot :There are 122 users and 87845 invisible on 30 servers
+:barjavel.freenode.net 252 hexabot 31 :IRC Operators online
+:barjavel.freenode.net 253 hexabot 41 :unknown connection(s)
+:barjavel.freenode.net 254 hexabot 53577 :channels formed
+:barjavel.freenode.net 255 hexabot :I have 5885 clients and 1 servers
+:barjavel.freenode.net 265 hexabot 5885 7620 :Current local users 5885, max 7620
+:barjavel.freenode.net 266 hexabot 87967 97718 :Current global users 87967, max 97718
+:barjavel.freenode.net 250 hexabot :Highest connection count: 7621 (7620 clients) (2330900 connections received)
+:barjavel.freenode.net 375 hexabot :- barjavel.freenode.net Message of the Day - 
+:barjavel.freenode.net 372 hexabot :- Welcome to barjavel.freenode.net in Paris, FR, EU. 
+:barjavel.freenode.net 372 hexabot :- Thanks to Bearstech (www.bearstech.com) for sponsoring
+:barjavel.freenode.net 372 hexabot :- this server!
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- BARJAVEL, RENE [1911-1985].  Born in Nyons, he was a
+:barjavel.freenode.net 372 hexabot :- science-fiction author, a journalist and a critic. He is
+:barjavel.freenode.net 372 hexabot :- credited with having written the first novel to introduce 
+:barjavel.freenode.net 372 hexabot :- the Grandfather Paradox in time travel, in his 1943 work 
+:barjavel.freenode.net 372 hexabot :- 'Le Voyageur imprudent'.
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:barjavel.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:barjavel.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:barjavel.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:barjavel.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:barjavel.freenode.net 372 hexabot :-                                                                              
+:barjavel.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:barjavel.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:barjavel.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:barjavel.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:barjavel.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:barjavel.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:barjavel.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:barjavel.freenode.net 372 hexabot :- innovation.
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:barjavel.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:barjavel.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:barjavel.freenode.net 372 hexabot :- website.
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- We hope to see you there!
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :-  
+:barjavel.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:barjavel.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:barjavel.freenode.net 372 hexabot :- https://freenode.net
+:barjavel.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+:NickServ!NickServ@services. NOTICE hexabot :This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+HEXABOT : PRIVMSG #hexatest :Here is the list of avalaible commands :
+HEXABOT : PRIVMSG #hexatest :Usage :         nameOfBot !nameOfCommand
+HEXABOT : PRIVMSG #hexatest :!commands: Display list of commands
+HEXABOT : PRIVMSG #hexatest :!answer: Give answer to Life the Universeand all the rest
+:barjavel.freenode.net MODE #hexatest +ns
+:barjavel.freenode.net 353 hexabot @ #hexatest :@hexabot
+:barjavel.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexabot!~hexabot@163.5.121.140 TOPIC #hexatest :Welcome to #hexatest.to get list of bot commands : "hexabot !commands"
+:NickServ!NickServ@services. NOTICE hexabot :You are now identified for hexabot.
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexaltation
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 JOIN #hexatest
+:hexabot!~hexabot@163.5.121.140 MODE #hexatest +o hexaltation
+PING :barjavel.freenode.net
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :hexabox !rhaus
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :test
+HEXABOT : PRIVMSG #hexatest :SCHNELLLLLLL
+
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :hexabot !rhaus
+:verne.freenode.net NOTICE * :*** Looking up your hostname...
+:verne.freenode.net NOTICE * :*** Checking Ident
+:verne.freenode.net NOTICE * :*** Couldn't look up your hostname
+:verne.freenode.net NOTICE * :*** No Ident response
+:verne.freenode.net 001 hexabot :Welcome to the freenode Internet Relay Chat Network hexabot
+:verne.freenode.net 002 hexabot :Your host is verne.freenode.net[185.30.166.37/6667], running version ircd-seven-1.1.4
+:verne.freenode.net 003 hexabot :This server was created Sat Jan 7 2017 at 11:53:54 EST
+:verne.freenode.net 004 hexabot verne.freenode.net ircd-seven-1.1.4 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:verne.freenode.net 005 hexabot CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+:verne.freenode.net 005 hexabot CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 ETRACE WHOX KNOCK :are supported by this server
+:verne.freenode.net 005 hexabot SAFELIST ELIST=CTU CPRIVMSG CNOTICE :are supported by this server
+:verne.freenode.net 251 hexabot :There are 122 users and 87814 invisible on 30 servers
+:verne.freenode.net 252 hexabot 31 :IRC Operators online
+:verne.freenode.net 253 hexabot 35 :unknown connection(s)
+:verne.freenode.net 254 hexabot 53590 :channels formed
+:verne.freenode.net 255 hexabot :I have 5908 clients and 2 servers
+:verne.freenode.net 265 hexabot 5908 7978 :Current local users 5908, max 7978
+:verne.freenode.net 266 hexabot 87936 97718 :Current global users 87936, max 97718
+:verne.freenode.net 250 hexabot :Highest connection count: 7980 (7978 clients) (2729785 connections received)
+:verne.freenode.net 375 hexabot :- verne.freenode.net Message of the Day - 
+:verne.freenode.net 372 hexabot :- Welcome to verne.freenode.net in Amsterdam, NL.
+:verne.freenode.net 372 hexabot :- Thanks to http://www.hyperfilter.com/ for sponsoring
+:verne.freenode.net 372 hexabot :- this server!
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- VERNE, Jules (1828-1905). Born in Nantes, France, Verne was
+:verne.freenode.net 372 hexabot :- a pioneering french author known for novels such as Twenty
+:verne.freenode.net 372 hexabot :- Thousand Leagues Under the Sea, A Journey to the Center of the
+:verne.freenode.net 372 hexabot :- Earth, and Around the World in Eighty Days. Often lauded as the
+:verne.freenode.net 372 hexabot :- Father of science fiction, Verne wrote about concepts such as
+:verne.freenode.net 372 hexabot :- space travel, skyscrapers, and worldwide communications
+:verne.freenode.net 372 hexabot :- networks long before these ideas became popularised or realised.
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-   __                               _          _  _   _     _____     _______ 
+:verne.freenode.net 372 hexabot :-  / _|_ __ ___  ___ _ __   ___   __| | ___   _| || |_| |   |_ _\ \   / / ____|
+:verne.freenode.net 372 hexabot :- | |_| '__/ _ \/ _ \ '_ \ / _ \ / _` |/ _ \ |_  ..  _| |    | | \ \ / /|  _|  
+:verne.freenode.net 372 hexabot :- |  _| | |  __/  __/ | | | (_) | (_| |  __/ |_      _| |___ | |  \ V / | |___ 
+:verne.freenode.net 372 hexabot :- |_| |_|  \___|\___|_| |_|\___/ \__,_|\___|   |_||_| |_____|___|  \_/  |_____|
+:verne.freenode.net 372 hexabot :-                                                                              
+:verne.freenode.net 372 hexabot :- October 28th - 29th, Bristol, United Kingdom - see http://freenode.live/
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- freenode #live is a community-focused live event designed to build and
+:verne.freenode.net 372 hexabot :- strengthen relationships between Free and Open Source Software (FOSS)
+:verne.freenode.net 372 hexabot :- developers and users. freenode live seeks to raise awareness of and 
+:verne.freenode.net 372 hexabot :- promote FOSS alternatives to proprietary software. 
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- Facilitating face-to-face interaction, creative workshops, talks and think 
+:verne.freenode.net 372 hexabot :- tanks, freenode #live will bring developers and users together in a nurturing 
+:verne.freenode.net 372 hexabot :- and dynamic environment stimulating the free exchange of ideas and 
+:verne.freenode.net 372 hexabot :- information while fostering cross-project collaboration and dialogue for 
+:verne.freenode.net 372 hexabot :- innovation.
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- Please join us in the #live channel on the freenode network, or send us an
+:verne.freenode.net 372 hexabot :- e-mail (2017-team@freenode.live) if you have any questions and would like to
+:verne.freenode.net 372 hexabot :- get involved! Further information will also be posted on the freenode.net 
+:verne.freenode.net 372 hexabot :- website.
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- See https://freenode.live/ for more information and to get your tickets!
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- We hope to see you there!
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :-  
+:verne.freenode.net 372 hexabot :- By connecting to freenode you indicate that you have read and
+:verne.freenode.net 372 hexabot :- agree with our policies and guidelines as published on
+:verne.freenode.net 372 hexabot :- https://freenode.net
+:verne.freenode.net 376 hexabot :End of /MOTD command.
+:hexabot MODE hexabot :+i
+:NickServ!NickServ@services. NOTICE hexabot :This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+HEXABOT : PRIVMSG #hexatest :Everybody say hello to hexabot
+:hexabot!~hexabot@163.5.121.140 JOIN #hexatest
+HEXABOT : PRIVMSG #hexatest :Here is the list of avalaible commands :
+HEXABOT : PRIVMSG #hexatest :Usage :         nameOfBot !nameOfCommand
+HEXABOT : PRIVMSG #hexatest :!commands: Display list of commands
+HEXABOT : PRIVMSG #hexatest :!answer: Give answer to Life the Universeand all the rest
+:verne.freenode.net 332 hexabot #hexatest :Welcome to #hexatest.to get list of bot commands : "hexabot !commands"
+:verne.freenode.net 333 hexabot #hexatest hexabot!~hexabot@163.5.121.140 1504799941
+:verne.freenode.net 353 hexabot @ #hexatest :hexabot @hexaltation
+:verne.freenode.net 366 hexabot #hexatest :End of /NAMES list.
+:hexabot!~hexabot@163.5.121.140 TOPIC #hexatest :Welcome to #hexatest.to get list of bot commands : "hexabot !commands"
+:NickServ!NickServ@services. NOTICE hexabot :You are now identified for hexabot.
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 MODE #hexatest +o hexabot
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :ACTION loging a real me command
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :test
+:hexaltation!a305798c@gateway/web/freenode/ip.163.5.121.140 PRIVMSG #hexatest :test
+PING :verne.freenode.net
+:hexabot!~hexabot@163.5.121.140 QUIT :Ping timeout: 260 seconds
+ERROR :Closing Link: 163.5.121.140 (Ping timeout: 260 seconds)
